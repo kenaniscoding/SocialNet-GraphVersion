@@ -6,7 +6,7 @@ HashMap together with a friend graph
 visualization using JavaFX
 
 ![image](./picture/socialnetgraph.png)
-
+![image](./picture/socialnetgraph2.png)
 ## Created by
 Kenan Banal
 
