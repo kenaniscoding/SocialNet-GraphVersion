@@ -5,6 +5,8 @@ HashMap together with a friend graph
 
 visualization using JavaFX
 
+![image](./picture/socialnetgraph.png)
+
 ## Created by
 Kenan Banal
 
